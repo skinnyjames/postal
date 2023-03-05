@@ -1,0 +1,9 @@
+name: postal
+version: 0.1.0
+
+authors:
+  - Sean Gregory <sean.christopher.gregory@gmail.com>
+
+crystal: 1.7.1
+
+license: MIT
